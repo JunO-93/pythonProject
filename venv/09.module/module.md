@@ -21,6 +21,7 @@ pip install 모듈이름
 
 pip install pyautogui
 ```
+<<<<<<< HEAD
 ### 패키지
 ```buildoutcfg
 * 관련 있는 모듈을 하나로 묶어놓은 것
@@ -36,3 +37,5 @@ pip install pyautogui
         ㄴ monster.py
     ㄴ main.py
 ```
+=======
+>>>>>>> origin/main
